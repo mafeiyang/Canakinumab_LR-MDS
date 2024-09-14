@@ -6,8 +6,7 @@ We designed a phase 2 clinical trial to evaluate the safety profile and efficacy
 This study has important clinical and biological implications because it demonstrates that better stratification strategies based on immune profiles could target lower-risk MDS patients more effectively.
 
 ## Single cell RNA Sequencing datasets
-Additionally, we offer Seurat objects to facilitate the reproduction of the results presented in the paper.
-
-The Seurat objects used for Figures 3B, 3E, 4A, and 4C can be downloaded [here](https://ucla.box.com/s/ughct1z5loius7s02f6spc95gpsv3mkc). All plots can be recreated using standard Seurat functions.
+The fastq files and raw count expression matrices of the scRNA-seq datasets are available in GEO accession [GSE237148](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE237148).
+Additionally, we offer Seurat objects to facilitate the reproduction of the results presented in the paper. The Seurat objects used for Figures 3B, 3E, 4A, and 4C can be downloaded [here](https://ucla.box.com/s/ughct1z5loius7s02f6spc95gpsv3mkc). All plots can be recreated using standard Seurat scripts.
 
 
