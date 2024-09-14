@@ -7,6 +7,6 @@ This study has important clinical and biological implications because it demonst
 
 ## Single cell RNA Sequencing datasets
 The fastq files and raw count expression matrices of the scRNA-seq datasets are available in GEO accession [GSE237148](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE237148).
-Additionally, we offer Seurat objects to facilitate the reproduction of the results presented in the paper. The Seurat objects used for Figures 3B, 3E, 4A, and 4C can be downloaded [here](https://ucla.box.com/s/ughct1z5loius7s02f6spc95gpsv3mkc). All plots can be recreated using standard [Seurat](https://satijalab.org/seurat/) scripts.
+Additionally, we provide Seurat objects to facilitate the reproduction of the results presented in the paper. The Seurat objects used for Figures 3B, 3E, 4A, and 4C can be downloaded [here](https://ucla.box.com/s/ughct1z5loius7s02f6spc95gpsv3mkc). All plots can be recreated using standard [Seurat](https://satijalab.org/seurat/) scripts.
 
 
